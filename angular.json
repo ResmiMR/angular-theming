@@ -25,9 +25,18 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css", 
+              "src/assets/vendor/choices.js/public/assets/styles/choices.min.css",
+              "src/assets/vendor/overlayscrollbars/css/OverlayScrollbars.min.css",
+              "src/assets/css/custom.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
+              "src/assets/vendor/just-validate/js/just-validate.min.js",
+              "src/assets/vendor/choices.js/public/assets/scripts/choices.min.js",
+              "src/assets/vendor/overlayscrollbars/js/OverlayScrollb                                                                                                            ars.min.js",
+              "src/assets/js/front.js"                                                                                                                        
+            ]
           },
           "configurations": {
             "production": {
